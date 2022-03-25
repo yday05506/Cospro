@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="getMax.c">
+    <ClCompile Include="배열 검색.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
