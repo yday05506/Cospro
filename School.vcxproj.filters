@@ -15,7 +15,10 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="랜덤 배열 검색.c">
+    <ClCompile Include="charEX.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="2차원 배열.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>

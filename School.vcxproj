@@ -19,7 +19,8 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="랜덤 배열 검색.c" />
+    <ClCompile Include="2차원 배열.c" />
+    <ClCompile Include="charEX.c" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
