@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="strfuction.c">
+    <ClCompile Include="strsearch.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
