@@ -14,7 +14,6 @@ int main(void) {
 		printf("%s\n", s1[i]);
 		if (strcmp(key, s1[i]) == 0) {
 			printf("배열 안 독일 위치 : %d번째\n", i + 1);
-			break;
 		}
 	}
 
