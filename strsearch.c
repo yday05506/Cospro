@@ -7,7 +7,7 @@ int main(void) {
 	// 이때 독일이 여러 개 있다면 모두 검색
 	char s1[7][10] = { "한국", "미국", "일본", "영국", "독일", "호주", "독일" };
 	char key[] = { "독일" };
-	int i, j;
+	int i;
 	// int len = strlen(s1);
 
 	for (i = 0; i < 7; i++) {
