@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="swap.c">
+    <ClCompile Include="ptrtypecast.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
