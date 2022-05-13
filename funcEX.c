@@ -7,17 +7,17 @@ void display(int a, char b) {
 	printf("\n");
 }
 
-void isEven(int n) {
-	if (n % 2 == 0)
-		printf("짝수입니다");
-	else
-		printf("홀수입니다");
+int isEven(int n) {
+	return (n % 2 == 0 ? 1 : 0);
 }
 
 int main(void)
 {
 	display(20, '#');
-	isEven(20);
+	if (isEven(10) == 1)
+		printf("짝수입니다");
+	else
+		printf("홀수입니다");
 
 	return 0;
 }
