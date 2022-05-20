@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="funcEX.c">
+    <ClCompile Include="callbyref.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
