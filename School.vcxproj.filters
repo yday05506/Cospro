@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="malloc.c">
+    <ClCompile Include="arraymalloc.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>

@@ -12,7 +12,7 @@ int main(void) {
 		printf("메모리 할당에 문제가 있습니다.");
 		exit(1);
 	}
-	*pi = 3;
+	*pi = 3;	// heap 하다
 	printf("주소 값 : *pi = %d, 저장 값 : pi = %d\n", pi, *pi);
 
 	free(pi);
