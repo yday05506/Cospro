@@ -19,6 +19,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="Assistant.c" />
     <ClCompile Include="cardScore.c" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
