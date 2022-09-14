@@ -15,10 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="cardScore.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="Assistant.c">
+    <ClCompile Include="diet.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
