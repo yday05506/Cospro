@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="dangerousArea.c">
+    <ClCompile Include="pass.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
