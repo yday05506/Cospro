@@ -15,7 +15,10 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="point.c">
+    <ClCompile Include="score.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="president.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
